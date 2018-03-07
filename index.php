@@ -11,7 +11,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
-					<h1 class="title">PoolDiary</h1>
+					<h1 class="title">QA PoolDiary</h1>
 					<h4>Better Tool for Better Pools</h4>
 					<br />
 				</div>
@@ -39,7 +39,7 @@
 									<i class="material-icons">backup</i>
 								</div>
 								<h4 class="info-title">Automatic Backups</h4>
-								<p>Keeping backups of your company data is not only good business practive, but a good idea.  All of your company info is backed up and protected against loss.  
+								<p>Keeping backups of your company data is not only good business practice, but a good idea.  All of your company info is backed up and protected against loss.  
 									We take care of the backups so you can focus on taking care of your customers.</p>
 							</div>
 						</div>
