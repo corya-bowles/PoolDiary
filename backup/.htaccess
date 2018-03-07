@@ -1,0 +1,11 @@
+
+# BEGIN PoolDiary
+<IfModule mod_rewrite.c>
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^pooldiary\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.pooldiary\.com$
+RewriteRule ^(.*)$ https://www.pooldiary.com/$1 [R,L]
+</IfModule>
+
+# END PoolDiary
